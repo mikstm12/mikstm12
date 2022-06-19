@@ -8,4 +8,4 @@
 mikstm12/mikstm12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I studied web design/development a few years ago. Try brush up  and getting back in and actually put it to use. Looking forward to improving and eventually make my contributions to the group.
+I studied web design/development a few years ago. Trying to brush up  and getting back in and actually put it to use. Looking forward to improving and eventually make my contributions to the group.
